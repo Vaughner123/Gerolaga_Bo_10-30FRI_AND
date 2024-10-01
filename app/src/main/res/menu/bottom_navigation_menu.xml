@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_calculator"
+        android:title="Calculator"
+        android:icon="@drawable/calccc"/>
+    <item
+        android:id="@+id/nav_list"
+        android:title="News List"
+        android:icon="@drawable/imageone"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profileee"/>
+</menu>
